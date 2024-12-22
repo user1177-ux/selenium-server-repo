@@ -1,2 +1,2 @@
-FROM selenium/standalone-chrome:latest
+FROM selenium/standalone-chrome-debug:latest
 EXPOSE 4444
